@@ -12,7 +12,7 @@ ORM은 Object Relational Mapping의 약자로 OOP에서 쓰이는 객체라는 �
 
 ## JPA를 왜 사용해야 할까?
 JPA를 사용하면 SQL 중심적인 개발에서 객체 중심적인 개발이 가능하다.<br>
-간단한 메소드로 CRUD가 가능해 생산성이 증가한다.<br>
+간단한 메소드로 CRUD(Create, Read, Update, Delete)가 가능해 생산성이 증가한다.<br>
 기존에는 필드 변경시 모든 SQL을 수정해야 했지만 JPA는 필드만 추가하면 SQL은 JPA가 처리해서 유지보수가 쉽다.<br>
 Object와 RDB간 패러다임 불일치를 해결한다.<br>
 
@@ -23,4 +23,5 @@ JPA는 애플리케이션과 JDBC 사이에서 동작한다.
 
 ### JDBC(Java Database Connectivity)
 JDBC는 DB에 접근할 수 있도록 `JAVA`에서 제공하는 API이다.
+
 
