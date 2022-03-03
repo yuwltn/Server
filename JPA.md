@@ -23,5 +23,3 @@ JPA는 애플리케이션과 JDBC 사이에서 동작한다.
 
 ### JDBC(Java Database Connectivity)
 JDBC는 DB에 접근할 수 있도록 `JAVA`에서 제공하는 API이다.
-
-
